@@ -1,7 +1,30 @@
 ---
-title: "test_website"
+title: "Josh Cullen"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: Twitter
+      href: https://twitter.com/SamanthaCsik
+    - text: GitHub
+      href: https://github.com/samanthacsik
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
+# About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.
+
+---
+
+# Education
+
+**PhD WFSC** (2019) Texas A&M University
+
+**BS BioSci** (2013) Clemson University
