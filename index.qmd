@@ -28,15 +28,23 @@ about:
 
 I study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.
 
-------------------------------------------------------------------------
+---
+
+# Experience
+
+ORISE Postdoctoral Fellow (2023-present) -- USGS EESC
+
+NSF Postdoctoral Fellow (2021-2023) -- Florida State University
+
+Postdoctoral Research Associate (2019-2021) -- University of Florida
+
+---
 
 # Education
 
 {{< fa graduation-cap >}} **PhD WFSC** (2019) Texas A&M University
 
 {{< fa graduation-cap >}} **BS BioSci** (2013) Clemson University
-
----
 
 :::
 

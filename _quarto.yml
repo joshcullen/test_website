@@ -15,13 +15,10 @@ website:
       - href: Research/index.qmd
         text: Research
   page-footer: "Copyright 2023, Josh Cullen"
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
+  cookie-consent: true
   google-analytics:
     tracking-id: "G-4NW3SGHKV5"
-    anonymize-ip: true
+    anonymize-ip: false
 
 format:
   html:
