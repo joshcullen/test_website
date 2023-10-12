@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,6 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,6 +66,31 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-4NW3SGHKV5"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-4NW3SGHKV5', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"headline",
+  "consent_type":"express",
+  "palette":"dark",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
 
 
 <link rel="stylesheet" href="styles.css">
@@ -87,8 +118,16 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./cv.html" rel="" target="">
+ <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Publications/index.html" rel="" target="">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Research/index.html" rel="" target="">
+ <span class="menu-text">Research</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -104,6 +143,10 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+
+
 <div class="quarto-about-trestles column-page">
   <div class="about-entity">
     <img src="headshot.jpg" class="about-image
@@ -116,21 +159,26 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header>
     <div class="about-links">
-  <a href="https://www.linkedin.com/in/samanthacsik/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
+  <a href="https://www.researchgate.net/profile/Joshua-Cullen-3" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="ai  ai-researchgate ai-1x"></i> ResearchGate</span>
   </a>
-  <a href="https://twitter.com/SamanthaCsik" class="about-link" rel="" target="">
+  <a href="https://scholar.google.com/citations?user=la4yig0AAAAJ&amp;hl=en" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="ai  ai-google-scholar ai-1x"></i> Google Scholar</span>
+  </a>
+  <a href="https://twitter.com/josh_a_cullen" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
      <span class="about-link-text">Twitter</span>
   </a>
-  <a href="https://github.com/samanthacsik" class="about-link" rel="" target="">
+  <a href="https://github.com/joshcullen" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
      <span class="about-link-text">GitHub</span>
   </a>
-  <a href="mailto:scsik@ucsb.edu" class="about-link" rel="" target="">
-     <span class="about-link-text">Email</span>
+  <a href="mailto:joshcullen10@gmail.com" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="fa-solid fa-envelope" aria-label="envelope"></i> Email</span>
   </a>
 </div>
   </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
+  <div class="about-contents"><div id="hero-heading">
 <section id="about-me" class="level1">
 <h1>About me</h1>
 <p>I study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.</p>
@@ -138,14 +186,22 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="education" class="level1">
 <h1>Education</h1>
-<p><strong>PhD WFSC</strong> (2019) Texas A&amp;M University</p>
-<p><strong>BS BioSci</strong> (2013) Clemson University</p>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> <strong>PhD WFSC</strong> (2019) Texas A&amp;M University</p>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> <strong>BS BioSci</strong> (2013) Clemson University</p>
+<hr>
+</section>
+</div></div>
+</div>
+
+<section id="prior-workshop-on-animal-movement-ecology" class="level1">
+<h1>Prior workshop on animal movement ecology</h1>
+<p></p><div id="youtube-frame" style="position: relative; padding-bottom: 56.25%; /* 16:9 */ height: 0;"><iframe width="100%" height="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/o7-E6-yXytE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -488,6 +544,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">Copyright 2023, Josh Cullen<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

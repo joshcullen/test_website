@@ -1,30 +1,114 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "About this site"
+    "text": "Download current CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Josh Cullen",
     "section": "",
-    "text": "About me\nI study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.\n\n\n\nEducation\nPhD WFSC (2019) Texas A&M University\nBS BioSci (2013) Clemson University"
+    "text": "ResearchGate\n  \n  \n      Google Scholar\n  \n  \n    \n     Twitter\n  \n  \n    \n     GitHub\n  \n  \n      Email\n  \n\n  \n  \n\nAbout me\nI study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.\n\n\n\nEducation\n PhD WFSC (2019) Texas A&M University\n BS BioSci (2013) Clemson University\n\n\n\n\n\n\nPrior workshop on animal movement ecology"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Finley Malloc",
+    "objectID": "Research/mallard.html",
+    "href": "Research/mallard.html",
+    "title": "Mallard HPAI Overlap",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "This project involved…"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
+    "objectID": "Research/mallard.html#background",
+    "href": "Research/mallard.html#background",
+    "title": "Mallard HPAI Overlap",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "This project involved…"
+  },
+  {
+    "objectID": "Research/mallard.html#running-code",
+    "href": "Research/mallard.html#running-code",
+    "title": "Mallard HPAI Overlap",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Research/index.html",
+    "href": "Research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "I led a project on using mallard telemetry data to investigate the encounter rates and overlap of space use with poultry farms that reported outbreaks of HPAI H5N1 in the Mississippi Flyway."
+  },
+  {
+    "objectID": "Research/index.html#mallard-overlap-with-outbreaks-of-h5n1-in-poultry-farms",
+    "href": "Research/index.html#mallard-overlap-with-outbreaks-of-h5n1-in-poultry-farms",
+    "title": "Research",
+    "section": "",
+    "text": "I led a project on using mallard telemetry data to investigate the encounter rates and overlap of space use with poultry farms that reported outbreaks of HPAI H5N1 in the Mississippi Flyway."
+  },
+  {
+    "objectID": "Publications/index.html",
+    "href": "Publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Cullen JA, Attias N, Desbiez ALJ, Valle D. (2023). Biologging as an important tool to uncover behaviors of cryptic species: An analysis of giant armadillos (Priodontes maximus). PeerJ, 11:e14726. https://doi.org/10.7717/peerj.14726. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section",
+    "href": "Publications/index.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Cullen JA, Attias N, Desbiez ALJ, Valle D. (2023). Biologging as an important tool to uncover behaviors of cryptic species: An analysis of giant armadillos (Priodontes maximus). PeerJ, 11:e14726. https://doi.org/10.7717/peerj.14726. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-1",
+    "href": "Publications/index.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nCullen JA, Poli CL, Fletcher Jr RJ, Valle D. (2022). Identifying latent behavioral states in animal movement with non- parametric Bayesian methods. Methods in Ecology and Evolution, 13(2): 432-446. https://doi.org/10.1111/2041-210X.13745. [PDF]\nValle D, Jameel Y, Betancourt B, Azeria ET, Attias N, Cullen J. (2022). Automatic selection of the number of clusters using Bayesian clustering and sparsity-inducing priors. Ecological Applications, 32(3): e2524. https://doi.org/10.1002/eap.2524. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-2",
+    "href": "Publications/index.html#section-2",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nLawson MC, Cullen JA, Nunnally CC, Rowe GT, Hala DN. (2021). PAH and PCB body-burdens in epibenthic deep-sea invertebrates from the northern Gulf of Mexico. Marine Pollution Bulletin, 162: 111825. https://doi.org/10.1016/j.marpolbul.2020.111825. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-3",
+    "href": "Publications/index.html#section-3",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nMarshall CD, Cullen, JA, Al-Ansi M, Hamza S, Abdel-Moati MA. (2020). Environmental drivers of habitat use by hawksbill turtles (Eretmochelys imbricata) in the Arabian Gulf (Qatar). Frontiers in Marine Science, 7: 961. https://doi.org/10.3389/fmars.2020.549575. [PDF]\nBacosa HP, Kamalanathan M., Cullen J, Shi D, Xu C, Schwehr KA, Hala D, Wade TL, Knap AH, Santschi PH, Quigg A. (2020). Marine snow aggregates are enriched in polycyclic aromatic hydrocarbons (PAHs) in oil contaminated waters. Journal of Marine Science and Engineering, 8(10): 781. https://doi.org/10.3390/jmse8100781. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-4",
+    "href": "Publications/index.html#section-4",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\nCullen JA, Marshall CD. (2019). Do sharks exhibit heterodonty by tooth position and over ontogeny?: A comparison using elliptic Fourier analysis. Journal of Morphology, 280: 687-700. https://doi.org/10.1002/jmor.20975. [PDF]\nCullen JA, Marshall CD, Hala D. (2019). Integration of multi-tissue PAH and PCB burdens with biomarker activity in three coastal shark species from the northwestern Gulf of Mexico. Science of the Total Environment, 650: 1158-1172. https://doi.org/10.1016/j.scitotenv.2018.09.128. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-5",
+    "href": "Publications/index.html#section-5",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nHala D, Cullen JA, Hernout B, Ivanov I. (2018). In silico predicted transcriptional regulatory control of steroidogenesis in spawning female fathead minnows (Pimephales promelas). Journal of Theoretical Biology, 455: 179-190. https://doi.org/10.1016/j.jtbi.2018.07.020. [PDF]\nMarshall CD, Al Ansi M, Dupont J, Warren C, Al Shaikh I, Cullen J. (2018). Large dugong (Dugong dugon) aggregations persist in coastal Qatar. Marine Mammal Science, 34(4): 1154-1163. https://doi.org/10.1111/mms.12497. [PDF]"
+  },
+  {
+    "objectID": "Publications/index.html#section-6",
+    "href": "Publications/index.html#section-6",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\nCullen JA, Maie T, Schoenfuss HL, Blob RW. (2013). Evolutionary Novelty versus Exaptation: Oral Kinematics in Feeding versus Climbing in the Waterfall-Climbing Hawaiian Goby Sicyopterus stimpsoni. PLoS ONE, 8(1): e53274. https://doi.org/10.1371/journal.pone.0053274. [PDF]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

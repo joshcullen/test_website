@@ -8,7 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - href: Publications/index.qmd
+        text: Publications
+      - href: Research/index.qmd
+        text: Research
+  page-footer: "Copyright 2023, Josh Cullen"
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-4NW3SGHKV5"
+    anonymize-ip: true
 
 format:
   html:

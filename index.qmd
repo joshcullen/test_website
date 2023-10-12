@@ -3,28 +3,44 @@ title: "Josh Cullen"
 image: headshot.jpg
 toc: false
 about: 
+  id: hero-heading
   template: trestles
   image-shape: round
   image-width: 20em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+    - text: "{{< ai researchgate size=1x >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Joshua-Cullen-3
+    - text: "{{< ai google-scholar size=1x >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=la4yig0AAAAJ&hl=en
     - text: Twitter
-      href: https://twitter.com/SamanthaCsik
+      href: https://twitter.com/josh_a_cullen
+      icon: twitter
     - text: GitHub
-      href: https://github.com/samanthacsik
-    - text: Email
-      href: mailto:scsik@ucsb.edu
+      href: https://github.com/joshcullen
+      icon: github
+    - text: "{{< fa envelope >}} Email"
+      href: mailto:joshcullen10@gmail.com
 ---
+
+:::{#hero-heading}
 
 # About me
 
 I study animal movement ecology, which includes inferring animal behavioral states, space use, and resource selection from biotelemetry data collected on both aquatic and terrestrial organisms.
 
----
+------------------------------------------------------------------------
 
 # Education
 
-**PhD WFSC** (2019) Texas A&M University
+{{< fa graduation-cap >}} **PhD WFSC** (2019) Texas A&M University
 
-**BS BioSci** (2013) Clemson University
+{{< fa graduation-cap >}} **BS BioSci** (2013) Clemson University
+
+---
+
+:::
+
+# Prior workshop on animal movement ecology
+
+{{< youtube o7-E6-yXytE >}}
+

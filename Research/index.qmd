@@ -1,0 +1,8 @@
+---
+title: "Research"
+format: html
+---
+
+## [Mallard overlap with outbreaks of H5N1 in poultry farms](mallard.qmd)
+
+I led a project on using mallard telemetry data to investigate the encounter rates and overlap of space use with poultry farms that reported outbreaks of HPAI H5N1 in the Mississippi Flyway.
